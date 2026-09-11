@@ -1,0 +1,7 @@
+simple-shell
+*.o
+core
+core.*
+.vscode/
+.idea/
+.DS_Store
